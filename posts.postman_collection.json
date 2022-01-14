@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "a9584516-6e21-4311-8676-44c993727770",
+		"_postman_id": "5890a8bf-19de-421c-bb7a-7b16e5f39868",
 		"name": "posts",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -73,12 +73,7 @@
 							"type": "file",
 							"src": "/C:/Users/Иван/Desktop/home-mem-preview.webp"
 						}
-					],
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
+					]
 				},
 				"url": {
 					"raw": "http://localhost/api/post/add",
